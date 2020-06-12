@@ -13,10 +13,10 @@ class MyClass {
   public static void main(String[] args) {
     Scanner myObj = new Scanner(System.in);  // Create a Scanner object
     System.out.println("Enter gcp");
-    int GCP = myObj.nextLine();  // Read user input
+    int GCP = myObj.nextBoolean();  // Read user input
     Scanner myObj = new Scanner(System.in);  // Create a Scanner object
     System.out.println("Enter old");
-    int old = myObj.nextLine();  // Read user input
+    int old = myObj.nextBoolean();  // Read user input
       
      //gcp select LOOP 
      if (GCP < OLD) {
@@ -26,7 +26,7 @@ class MyClass {
      System.out.println("stable");
      }   
      else (GCP>OLD){
-     System.out.printlnΚΙΝΗΣΗ ("growth");
+     System.out.println ("growth");
      }
   }
 }
