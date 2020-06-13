@@ -1,11 +1,4 @@
- /*public class MyClass {
-  public static void main(String[] args) {
-   //VALUES 
-   int GCP= 600;
-   int OLD=601;
 
-FORM     
-JLABEL lblName =new label ("");*/
 
 import java.util.Scanner;  // Import the Scanner class
 
@@ -16,7 +9,7 @@ class MyClass {
     int GCP = myObj.nextBoolean();  // Read user input
     Scanner myObj = new Scanner(System.in);  // Create a Scanner object
     System.out.println("Enter old");
-    int old = myObj.next2Boolean();  // Read user input
+    int old = myObj.nextBoolean();  // Read user input
       
      //gcp select LOOP 
      if (GCP < OLD) {
