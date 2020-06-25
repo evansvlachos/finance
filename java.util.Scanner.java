@@ -20,6 +20,8 @@ class MyClass {
      }   
      else (GCP>OLD){
      System.out.println ("growth");
+     
+     int growth=   
      }
   }
 }
