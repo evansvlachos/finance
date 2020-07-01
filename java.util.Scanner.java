@@ -11,7 +11,7 @@ class MyClass {
     System.out.println("Enter old");
     int old = myObj.nextBoolean();  // Read user input
       
-     //gcp select LOOP 
+     //gcp select LOOP ,describe if economy grows
      if (GCP < OLD) {
      System.out.println("Depresion");
      } 
@@ -21,7 +21,11 @@ class MyClass {
      else (GCP>OLD){
      System.out.println ("growth");
      
-     int growth=   
+      // object  growth
+     myclass growth = new myclass();
+      
+     growth=100*(GCP/OLD) 
+   
      }
   }
 }
