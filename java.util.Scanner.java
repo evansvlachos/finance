@@ -21,11 +21,11 @@ class MyClass {
      else (GCP>OLD){
      System.out.println ("growth");
      
-      // object  growth
+      // object  growth percentage
      myclass growth = new myclass;
-      
      growth=100*(GCP/OLD) 
    
+       
      }
   }
 }
