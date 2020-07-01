@@ -11,7 +11,7 @@ class MyClass {
     System.out.println("Enter old");
     int old = myObj.nextBoolean();  // Read user input
       
-     //gcp select LOOP ,describe if economy grows
+     //gcp select LOOP ,describe if economy have develop
      if (GCP < OLD) {
      System.out.println("Depresion");
      } 
