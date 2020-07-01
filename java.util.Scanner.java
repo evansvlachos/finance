@@ -22,7 +22,7 @@ class MyClass {
      System.out.println ("growth");
      
       // object  growth
-     myclass growth = new myclass();
+     myclass growth = new myclass;
       
      growth=100*(GCP/OLD) 
    
