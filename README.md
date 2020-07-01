@@ -1,2 +1,2 @@
 # finance
-This program makes the basic finance calculation
+This program makes the basic finance calculations
