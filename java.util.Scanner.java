@@ -24,8 +24,9 @@ class MyClass {
       // object  growth percentage
      myclass growth = new myclass;
      growth=100*(GCP/OLD) 
-   
        
+     system void speak("My name is"+);
+     }  
      }
   }
 }
